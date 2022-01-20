@@ -349,10 +349,10 @@ const CostCalculator = () => {
                     <h2><span>Kryterium oczekiwanej wypłaty:</span> {owi} zł</h2>
                     <h2><span>Kryterium oczekiwanej staraty moliwości:</span> {ows} zł</h2>
                     <h2>
-                        <span>Kryterium Przy wykorzystaniu informacji doskonełej:</span> {owdiValue} zł
+                        <span>Oczekiwana wypłata przy wykorzystaniu informacji doskonałej:</span> {owdiValue} zł
                     </h2>
                     <h2>
-                        <span>Oczekiwana wartość informacji doskonałej:</span> {owdiValue - owi} zł
+                        <span>Oczekiwana wartość doskonałej informacji :</span> {owdiValue - owi} zł
                     </h2>
                 </div>
             </div>
